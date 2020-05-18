@@ -1,3 +1,7 @@
+NB: Professor Benson, I was unable to submit lab6 and lab7 to canvas, here are the links to them:
+https://github.com/dmitriykcsun/lab6cs322
+https://github.com/dmitriykcsun/lab7cs322
+
 This C program calculates the page number and offset for a given virtual address in decimal. The calculation is done based on a 32-bit address with a 4-KB page size. 
 
 To call the program use "./a address" where address is the virtual address you would like to know the page # and offset of.
